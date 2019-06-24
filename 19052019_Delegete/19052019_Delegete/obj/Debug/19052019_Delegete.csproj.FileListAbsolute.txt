@@ -1,0 +1,7 @@
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\bin\Debug\19052019_Delegete.exe.config
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\bin\Debug\19052019_Delegete.exe
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\bin\Debug\19052019_Delegete.pdb
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\obj\Debug\19052019_Delegete.csprojAssemblyReference.cache
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\obj\Debug\19052019_Delegete.csproj.CoreCompileInputs.cache
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\obj\Debug\19052019_Delegete.exe
+C:\Users\rosla\source\repos\19052019_Delegete\19052019_Delegete\obj\Debug\19052019_Delegete.pdb
